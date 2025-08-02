@@ -20,3 +20,7 @@ This dashboard analyzes retail sales data including:
 - Dashboard Design
 - Visualization
 - Excel Automation
+
+ ## 🖼️ Dashboard Preview:
+![Dashboard Screenshot](dashboard_preview.png)
+
